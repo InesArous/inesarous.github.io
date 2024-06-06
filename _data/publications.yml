@@ -9,10 +9,10 @@
   bib: |
     @inproceedings{li2023evaluating,
     title={Evaluating dependencies in fact editing for language models: Specificity and implication awareness},
-  author={Li, Zichao and Arous, Ines and Reddy, Siva and Cheung, Jackie Chi Kit},
-  booktitle={EMNLP 2023},
-  pages={7623--7636},
-  year={2023}
+    author={Li, Zichao and Arous, Ines and Reddy, Siva and Cheung, Jackie Chi Kit},
+    booktitle={EMNLP 2023},
+    pages={7623--7636},
+    year={2023}
 }
 - id: arous2023www_hybrid
   authors: Sepideh Mesbah, Ines Arous, Jie Yang, Alessandro Bozzon
