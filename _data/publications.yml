@@ -1,3 +1,20 @@
+- id: darrin2024glimpse
+  authors: Maxime Darrin, Ines Arous, Pablo Piantanida, Jackie CK Cheung
+  url: pdf/darrin2024glimpse.pdf
+  venue: In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics 
+  year: 2024
+  type: "full research paper"
+  highlight:
+  title: "GLIMPSE: Pragmatically Informative Multi-Document Summarization for Scholarly Reviews"
+  bib: |
+   @inproceedings{darrin2024glimpse,
+    title={GLIMPSE: Pragmatically Informative Multi-Document Summarization for Scholarly Reviews},
+    author={Darrin, Maxime and Arous, Ines and Piantanida, Pablo and Cheung, Jackie Chi Kit},
+    booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+    pages={12737--12752},
+    year={2024}
+  }
+
 - id: li2023evaluating
   authors: Zichao Li, Ines Arous, Siva Reddy, Jackie Chi Kit Cheung
   url: pdf/li2023evaluating.pdf
