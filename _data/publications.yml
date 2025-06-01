@@ -5,10 +5,10 @@
   year: 2024
   type: "full research paper"
   highlight:
-  title: "GLIMPSE: Pragmatically Informative Multi-Document Summarization for Scholarly Reviews"
+  title: "GLIMPSE: Pragmatically Informative Multi Document Summarization for Scholarly Reviews"
   bib: |
    @inproceedings{darrin2024glimpse,
-    title={GLIMPSE: Pragmatically Informative Multi-Document Summarization for Scholarly Reviews},
+    title={GLIMPSE: Pragmatically Informative Multi Document Summarization for Scholarly Reviews},
     author={Darrin, Maxime and Arous, Ines and Piantanida, Pablo and Cheung, Jackie Chi Kit},
     booktitle={ACL 2024},
     pages={12737--12752},
