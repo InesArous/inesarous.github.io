@@ -1,0 +1,55 @@
+title: Prospective Students
+intro: >
+  Thank you for your interest in my research! I've put together some information to help you understand what I look for in students and collaborators. My goal is to create a research environment that supports learning, creativity, and well-being. I hope this helps you decide if our interests and working styles align.
+
+what_i_look_for:
+  description: >
+    I welcome students from diverse backgrounds and experiences. You don't need to have everything figured out — just a genuine interest in growing and contributing. Here are some qualities I especially value:
+  qualities:
+    - title: Research Fit
+      description: >
+        At the heart of my work is a commitment to human-centered technology. I explore how people engage with AI in productivity and creative contexts, design intuitive and impactful user experiences, and develop accessible tools that empower diverse users. I encourage you to review my recent publications and let me know what sparked your interest or what ideas you're excited to pursue.
+    - title: Curiosity
+      description: >
+        I look for students who are eager to learn and ask thoughtful questions. Curiosity drives exploration, helps uncover new insights, and leads to more meaningful research.
+    - title: Time Management Skills
+      description: >
+        I appreciate when students try to stay organized and proactive. Setting goals, managing time, and following through on tasks can make our collaboration smoother and more rewarding.
+    - title: Open Communication
+      description: >
+        I deeply value honesty and transparency. Clear and authentic communication builds trust and helps me support you better.
+
+programs:
+  - level: Master's and PhD students
+    description: >
+      You can apply to work with me through one of the following graduate programs at York University:
+    programs:
+      - MSc in Computer Science
+      - PhD in Electrical Engineering and Computer Science
+    international_note: >
+      If you are currently enrolled in a Master's or PhD program outside Canada, you may be eligible to visit my lab through the International Visiting Research Trainee (IVRT) program at York University.
+  - level: Undergraduate students at York University
+    programs:
+      - Lassonde Undergraduate Research Award (LURA)
+      - Undergraduate Student Research Award (USRA)
+      - Research at York (RAY) Program
+  - level: Undergraduate students outside Canada
+    programs:
+      - MITACS Globalink Research Award
+
+collaboration:
+  title: Collaboration Opportunities
+  description: >
+    If you're working on a topic related to my research and are interested in collaborating, feel free to contact me directly by email.
+
+contact_guidelines:
+  title: Interested in Reaching Out?
+  description: >
+    If you'd like to contact me about research opportunities, please include the following in your email. This helps me get a clearer picture of your interests and background and saves us from too much back and forth. I read every email carefully, but I may not be able to respond to everyone. Even if you don't hear back, I truly appreciate your time and wish you all the best on your academic journey!
+  instructions:
+    - Include "projects Student" in the subject line.
+    - Mention the role you're interested in (e.g., Undergraduate RA, MSc, PhD) and your anticipated start date (e.g., Fall/Winter 2026).
+    - Share your research interests and any ideas or proposals for future projects. Feel free to reflect on one of my papers — what stood out, what could be improved, or how you'd build on it.
+    - Provide a short summary of your relevant skills and experiences (e.g., full-stack development, UX/UI design, research methods). Experience with web development, LLM APIs, and user studies is helpful but not required.
+    - Attach your CV and unofficial transcripts, if available.
+    - Feel free to include anything else you think is important.

@@ -1,14 +1,46 @@
+- id: li2025colm
+  authors: Zichao Li, Ines Arous, Jackie Chi Kit Cheung
+  url: 
+  venue: Proceedings of the Conference on Language Modeling
+  year: 2025
+  type: "full research paper"
+  highlight: false
+  title: "Partial Perspectives: How LLMs Handle Logically Inconsistent Knowledge in Reasoning Tasks"
+  bib: |
+    @inproceedings{darrin2024glimpse,
+      title={Partial Perspectives: How LLMs Handle Logically Inconsistent Knowledge in Reasoning Tasks},
+      author={Li, Zichao and Arous, Ines and Cheung, Jackie Chi Kit},
+      booktitle={COLM 2025},
+      pages={},
+      year={2025}
+    }
+- id: dossou2025acl
+  authors: Bonaventure F. P. Dossou, Ines Arous, Jackie Chi Kit Cheung
+  url: pdf/dossou2025acl.pdf
+  venue: Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics 
+  year: 2025
+  type: "Student Research Workshop"
+  highlight: false
+  title: "Rethinking Full Finetuning from Pretraining Checkpoints in Active Learning for African Languages"
+  bib: |
+    @inproceedings{darrin2024glimpse,
+      title={Rethinking Full Finetuning from Pretraining Checkpoints in Active Learning for African Languages},
+      author={Dossou, Bonaventure F. P., Arous, Ines and Cheung, Jackie Chi Kit},
+      booktitle={ACL 2025 (Volume 4: Student Research Workshop)},
+      pages={64-78},
+      year={2025}
+    }
 - id: darrin2024glimpse
   authors: Maxime Darrin, Ines Arous, Pablo Piantanida, Jackie Chi Kit Cheung
   url: pdf/darrin2024glimpse.pdf
-  venue: In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics 
+  venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics 
   year: 2024
   type: "full research paper"
   highlight: false
-  title: "GLIMPSE Pragmatically Informative Multi Document Summarization for Scholarly Reviews"
+  title: "GLIMPSE: Pragmatically Informative Multi Document Summarization for Scholarly Reviews"
   bib: |
     @inproceedings{darrin2024glimpse,
-      title={GLIMPSE Pragmatically Informative Multi Document Summarization for Scholarly Reviews},
+      title={GLIMPSE: Pragmatically Informative Multi Document Summarization for Scholarly Reviews},
       author={Darrin, Maxime and Arous, Ines and Piantanida, Pablo and Cheung, Jackie Chi Kit},
       booktitle={ACL 2024},
       pages={12737--12752},

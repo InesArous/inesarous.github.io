@@ -1,0 +1,48 @@
+---
+layout: default
+title: Prospective Students
+---
+
+<section>
+  <h1>{{ site.data.prospective.title }}</h1>
+  <p>{{ site.data.prospective.intro }}</p>
+
+  <h2>What I Look For in Students</h2>
+  <p>{{ site.data.prospective.what_i_look_for.description }}</p>
+  <ul>
+    {% for quality in site.data.prospective.what_i_look_for.qualities %}
+      <li>
+        <strong>{{ quality.title }}</strong>: {{ quality.description }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h2>Programs I'm Affiliated With</h2>
+  {% for group in site.data.prospective.programs %}
+    <h3>{{ group.level }}</h3>
+    {% if group.description %}
+      <p>{{ group.description }}</p>
+    {% endif %}
+    <ul>
+      {% for program in group.programs %}
+        <li>{{ program }}</li>
+      {% endfor %}
+    </ul>
+    {% if group.international_note %}
+      <p><em>{{ group.international_note }}</em></p>
+    {% endif %}
+  {% endfor %}
+
+  <h2>{{ site.data.prospective.collaboration.title }}</h2>
+  <p>{{ site.data.prospective.collaboration.description }}</p>
+
+  <h2>{{ site.data.prospective.contact_guidelines.title }}</h2>
+  <p>{{ site.data.prospective.contact_guidelines.description }}</p>
+  <ol>
+    {% for instruction in site.data.prospective.contact_guidelines.instructions %}
+      <li>{{ instruction }}</li>
+    {% endfor %}
+  </ol>
+
+  <p>{{ site.data.prospective.closing }}</p>
+</section>
